@@ -23,10 +23,12 @@ URGENT:  Remove the Link to the Contact PDF
       Remove:  Event Coordinator: Keri Marin
 
 4: Replace Telephone Number
-    Remove:  510 660 5174
+    Remove:  510 660 5174 from Contact area and Footer
     Add these Phone Number(s):
       Main Office:  (510) 560-5980
       Event Coordinator:  (510) 560-5977
+      
+      
 
 
 Code Changes to theoldhomestead.org
