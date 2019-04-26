@@ -14,22 +14,9 @@ URGENT:  Remove the Link to the Contact PDF
 1:  Add the following line Above Email Address:
       Please use the information below to contact our Staff
 
-2:  Change email address:
-      Remove:  Email Address: "oldhomesteadevents@gmail.com"
-      Add to HTML:  <a href="mailto:event.coordinator@oldhomestead.events">Email our Staff</a>
-
-
 3:  Remove Event Coordinator
       Remove:  Event Coordinator: Keri Marin
-
-4: Replace Telephone Number
-    Remove:  510 660 5174 from Contact area and Footer
-    Add these Phone Number(s):
-      Main Office:  (510) 560-5980
-      Event Coordinator:  (510) 560-5977
       
-      
-
 
 Code Changes to theoldhomestead.org
 
